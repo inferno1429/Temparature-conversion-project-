@@ -22,7 +22,7 @@ function convert(){
 
     }
     else{
-        result.textContent = "select a Unit"
+        result.textContent = "Nigga Select a Unit to convert"
     }
 
 }
